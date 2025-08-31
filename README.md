@@ -1,0 +1,2 @@
+# AICTE_internship_climate_risk_disaster_management
+This is an AICTE Internship
